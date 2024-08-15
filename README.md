@@ -1,23 +1,3 @@
-<!-- nest generate-->
-<!-- 
-nest generate module "name"
-nest generate controller "name"
-nest generate provider "name"
- -->
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
@@ -53,7 +33,7 @@ nest generate provider "name"
 $ npm install
 ```
 
-## Genrate
+## Generate
 
 ```bash
 $ nest generate module "name"
