@@ -53,6 +53,14 @@ nest generate provider "name"
 $ npm install
 ```
 
+## Genrate
+
+```bash
+$ nest generate module "name"
+$ nest generate controller "name"
+$ nest generate provider "name"
+
+```
 ## Running the app
 
 ```bash
